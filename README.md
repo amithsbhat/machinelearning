@@ -1,2 +1,1 @@
-# machinelearning
-Daily exercises from ML bootcamp
+# Daily exercises from ML bootcamp
